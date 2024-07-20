@@ -1,0 +1,1 @@
+#To insert all the elements of another sequence datatype into a given list at specified position as separate elements in python
